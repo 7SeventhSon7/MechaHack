@@ -9,6 +9,7 @@
         <div class="sheet-col sheet-twoThirds sheet-bio">
             <input type="text" name="attr_name" placeholder="Name"/>
 			<input type="text" name="attr_class" placeholder="Pilot Type"/>
+			<input type="text" name="attr_chassis" placeholder="Chassis"/>
             <div style="display:inline-block;">Level <input type="number" name="attr_level" /></div>
         </div>
     </div>
